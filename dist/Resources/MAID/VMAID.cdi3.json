@@ -305,6 +305,11 @@
 			"Id": "Param40",
 			"GroupId": "ParamGroup9",
 			"Name": "Belt On/Off"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "",
+			"Name": "Color Hair"
 		}
 	],
 	"ParameterGroups": [
@@ -514,20 +519,12 @@
 			"ParamEyeBallY"
 		],
 		[
-			"ParamBrowRAngle",
-			"ParamBrowRForm"
-		],
-		[
 			"ParamBrowLAngle",
 			"ParamBrowLForm"
 		],
 		[
 			"ParamMouthOpenY",
 			"ParamMouthForm"
-		],
-		[
-			"ParamBodyAngleX",
-			"ParamBodyAngleY"
 		],
 		[
 			"Param29",
